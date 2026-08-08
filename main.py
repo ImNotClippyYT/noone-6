@@ -3,9 +3,9 @@ import json
 import requests
 import websockets
 
-TOKEN = "Add your token here"
+TOKEN = "MTI3NDI4NzQ2MTIwMzMxMjY4MQ.GiuiKi.7j88IT4xWuNolL40D7LF1sFx41e_-Sw1nqQpCU"
 STATUS = "online"  # online / dnd / idle
-CUSTOM_STATUS = "Hey!"  # Leave empty if you don't want a custom status
+CUSTOM_STATUS = ""  # Leave empty if you don't want a custom status
 USE_EMOJI = False
 
 headers = {"Authorization": TOKEN}
